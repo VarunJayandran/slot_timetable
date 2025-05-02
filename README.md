@@ -35,9 +35,9 @@ Execute the program using runserver command.
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="5" border="7" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - VARUN</b></caption>
+<caption><b>SLOT TIME TABLE - VARUN J C </b></caption>
 <tr align="center">
-<th bgcolor="yellow">Day/Time</th>
+<th bgcolor="yellow">Day/Time</th> 
 <th bgcolor="yellow">Monday</th>
 <th bgcolor="yellow">Tuesday</th>
 <th bgcolor="yellow">Wednesday</th>
